@@ -1,7 +1,7 @@
 # PDP Oncall Documentation
-The PDP Oncall is the main contact for Run Coordination (RC) with regard to the physics data processing. This includes the O2 framework, reconstruction, calibration and GPU processing as well as the connection to EOS and the CCDB.
+The PDP oncall is the main contact for Run Coordination (RC) with regard to physics data processing. This includes the O2 framework, reconstruction, calibration and GPU processing as well as the connection to EOS and the CCDB.
 
-The responsibles for the PDP operation are:
+The responsible people for the PDP operation are:
 | Function                      | Name           | Phone  | Email          |
 |-------------------------------|----------------|--------|----------------|
 | System Run Coordinator        | David Rohr     | 16-8257 | <drohr@cern.ch>          |
@@ -13,7 +13,7 @@ Hints:
 - CERN mobile numbers (16-\*) can be reached via +41-75-411-(Last 4 digits)
 - CERN numbers can be reached via +41-2276-(5 digits)
 
-## Booking Oncall shifts
+## Booking oncall shifts
 Oncall shifts are always booked for a period of 7 consecutive days and thus include one weekend. In order to avoid having to handover and coordinate with the next oncall on a Sunday, shifts are always booked from Tuesday (starting at 12.01am) until Monday (ending at 11.59pm). Shifts can be booked at SAMS: <https://alice-glance.cern.ch/alice/sams/shift/booking?start_date=2021-07-01&end_date=2021-07-31&subsystem%5B%5D=41&view=shift>. In order to book a shift you need to have the permission in SAMS. Permission can be given to you by the SRCs, please contact David or Ole.
 
 > *If you coordinate with a collegue and split the oncall shift block of 7 days among each other it is also fine, as long as always the full 7 days are booked.*
@@ -32,12 +32,15 @@ Follow information from RC and other central systems, etc.
 Report updates from PDP side and stay informed about what is happening at P2. Before the daily meeting on Tuesday you should receive a mail by the SRCs, Ruben and Chiara with updates from PDP which should be reported at the meeting. In case this is a long list please send a mail to RC prior to the beginning of the meeting so that the information can be put in the minutes beforehand. Should you not receive a mail an hour before the RC meeting starts please ask the SRCs, Ruben and Chiara for an update. In case no one from the Event Display (ED) is connected we can report the ED status from the PDP meeting on Monday to RC.
 
 ## Monitoring tools
-Some monitoring tools are only available from the CERN GPN, so you might need to configure a SOCKS proxy if you are accessing it from home. You can find documentation on how to set this up at <https://security.web.cern.ch/recommendations/en/ssh_browsing.shtml>. For example if you are using linux you can run a proxy by running inside the terminal\
+The EPN InfoLogger can be accessed at:\
+<http://alihlt-gw-prod.cern.ch:8081/>
+
+*Further monitoring webpages are under development and will be linked here in the future.*
+
+> Some monitoring tools are only available from the CERN GPN, so you might need to configure a SOCKS proxy if you are accessing it from home. You can find documentation on how to set this up at <https://security.web.cern.ch/recommendations/en/ssh_browsing.shtml>. For example if you are using linux you can run a proxy by running inside the terminal\
 `ssh -D 8080 lxtunnel.cern.ch -N -l <youruser>`\
 Afterwards you can add an extension to your browser (for example FoxyProxy Standard for Firefox) and add a socks5 proxy with the hostname `localhost` and port number `8080`.
 
-Now you can connect to the EPN InfoLogger via:\
-<http://alihlt-gw-prod.cern.ch:8081/>
 
 ## Expert list
 | **What**                    | **Who**           |
@@ -47,4 +50,8 @@ Now you can connect to the EPN InfoLogger via:\
 | Calibration                 | [Chiara](https://phonebook.cern.ch/phonebook/#search/?query=Chiara+Zampolli)            |
 | Reconstruction              | [Ruben](https://phonebook.cern.ch/phonebook/#search/?query=Ruben+Shahoyan)             |
 | Framework                   | [Giulio](https://phonebook.cern.ch/phonebook/#search/?query=Giulio+Eulisse)            |
+| Event Display               | [Julian](https://phonebook.cern.ch/phonebook/#search/?query=Julian+Myrcha)  |
+| FairMQ (external)           | [Alexey](https://phonebook.cern.ch/phonebook/#search/?query=Alexey+Rybalchenko)  |
+| DataDistribution (external) | [Gvozden](https://phonebook.cern.ch/phonebook/#search/?query=Gvozden+Neskovic)  |
+| InfoLogger (external)       | [EPN oncall](http://aliceglance.web.cern.ch/aliceglance/arc_display.php) **TODO: fix link** |
 
