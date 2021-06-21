@@ -53,5 +53,5 @@ Afterwards you can add an extension to your browser (for example FoxyProxy Stand
 | Event Display               | [Julian](https://phonebook.cern.ch/phonebook/#search/?query=Julian+Myrcha)  |
 | FairMQ (external)           | [Alexey](https://phonebook.cern.ch/phonebook/#search/?query=Alexey+Rybalchenko)  |
 | DataDistribution (external) | [Gvozden](https://phonebook.cern.ch/phonebook/#search/?query=Gvozden+Neskovic)  |
-| InfoLogger (external)       | [EPN oncall](http://aliceglance.web.cern.ch/aliceglance/arc_display.php) **TODO: fix link** |
+| InfoLogger (external)       | [EPN oncall](https://alice-glance.cern.ch/alice/sams/public/arc_display) |
 
