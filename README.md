@@ -14,7 +14,7 @@ Hints:
 - CERN numbers can be reached via +41-2276-(5 digits)
 
 ## Booking oncall shifts
-Oncall shifts are always booked for a period of 7 consecutive days and thus include one weekend. In order to avoid having to handover and coordinate with the next oncall on a Sunday, shifts are always booked from Tuesday (starting at 12.01am) until Monday (ending at 11.59pm). Shifts can be booked at SAMS: <https://alice-glance.cern.ch/alice/sams/shift/booking?start_date=2021-07-01&end_date=2021-07-31&subsystem%5B%5D=41&view=shift>. In order to book a shift you need to have the permission in SAMS. Permission can be given to you by the SRCs, please contact David or Ole.
+Oncall shifts are always booked for a period of 7 consecutive days and thus include one weekend. In order to avoid having to handover and coordinate with the next oncall on a Sunday, shifts are always booked from Tuesday (starting at 12.01am) until Monday (ending at 11.59pm). Shifts can be booked via SAMS: <https://alice-glance.cern.ch/alice/sams/shift/booking?start_date=2021-07-01&end_date=2021-07-31&subsystem%5B%5D=41&view=shift>. In order to book a shift you need to have the permission in SAMS. Permission can be given to you by the SRCs, please contact David or Ole.
 
 > *If you coordinate with a collegue and split the oncall shift block of 7 days among each other it is also fine, as long as always the full 7 days are booked.*
 
@@ -26,10 +26,11 @@ As oncall you will need to be reachable via a CERN phone number. This can be a C
 Learn about updates from PDP side which should be communicated to RC during the daily meeting on the following day.
 
 **Tuesday at 10.30am** Weekly RC Meeting\
-Follow information from RC and other central systems, etc.
+Follow information from RC and other central systems, etc. The weekly meeting is intended for general announcements and presentations. Typically there will not be a report by the PDP oncall at this meeting.
 
 **RC daily meeting at 4.30pm** (except for Mondays, since this overlaps with the PDP group meeting)\
-Report updates from PDP side and stay informed about what is happening at P2. Before the daily meeting on Tuesday you should receive a mail by the SRCs, Ruben and Chiara with updates from PDP which should be reported at the meeting. In case this is a long list please send a mail to RC prior to the beginning of the meeting so that the information can be put in the minutes beforehand. Should you not receive a mail an hour before the RC meeting starts please ask the SRCs, Ruben and Chiara for an update. In case no one from the Event Display (ED) is connected we can report the ED status from the PDP meeting on Monday to RC.
+Report updates from PDP side and stay informed about what is happening at P2. Our decision is to report a larger update from PDP only once a week and to do so on Tuesdays, because there might be news from the PDP meeting the day before to report. Before the daily meeting on Tuesday you should receive a mail by the SRCs, Ruben and Chiara with updates from PDP which should be reported at the meeting. In case this is a long list please send a mail to RC prior to the beginning of the meeting so that the information can be put in the minutes beforehand. Should you not receive a mail an hour before the RC meeting starts please ask the SRCs, Ruben and Chiara for an update. In case no one from the Event Display (ED) is connected we can report the ED status from the PDP meeting on Monday to RC.\
+At the other daily RC meetings we will report from the PDP side only in case there is something urgent to discuss or upon request by RC with respect to a specific topic. In that case please check with the person responsible (e.g. the assignee of the jira ticket). Still it is of course important to follow the meetings to be up to date with respect to current activities at P2.
 
 ## Monitoring tools
 The EPN InfoLogger can be accessed at:\
