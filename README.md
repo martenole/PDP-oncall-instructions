@@ -20,6 +20,10 @@ Oncall shifts are always booked for a period of 7 consecutive days and thus incl
 
 As oncall you will need to be reachable via a CERN phone number. This can be a CERN mobile number if you have one or you can use the CERNphone app which is described here: <https://cernphone.docs.cern.ch/>. Please make sure that your phone number in SAMS (<https://alice-glance.cern.ch/alice/sams/member/profile?view=permissions>) is correct and that you can receive calls via this number prior to the start of your shift. Technically the requirement for an oncall is that he/she should be able to physically come to P2 within 15 minutes during his/her shift. For PDP it is sufficient if one member of the group is in the local area and can come onsite if necessary. If you as oncall are not in the local area please make sure that someone else is available. So you can also do your shifts completely remotely.
 
+## Checklist before starting your shift
+- [x] subscribe to the egroup alice-p2info and alice-pdp-oncalls (search for the name at https://e-groups.cern.ch/)
+- [x] check that your phone number in SAMS is correct (https://alice-glance.cern.ch/alice/sams/member/profile)
+
 
 ## Meeting duties
 **Monday at 4pm:** Software & Computing Meeting (PDP group meeting)\
