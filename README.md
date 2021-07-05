@@ -13,6 +13,9 @@ Hints:
 - CERN mobile numbers (16-\*) can be reached via +41-75-411-(Last 4 digits)
 - CERN numbers can be reached via +41-2276-(5 digits)
 
+## PDP/EPN shifter collaboration
+If you get a call it will probably be from the PDP/EPN shifter. It might be helpful to check the training slides for the shifter which you can find at the following link: <https://docs.google.com/presentation/d/1Wmjd-AQ-xiIsuWyXQR2-VcoLHdZZotQpjHTieZhvi4c/edit?usp=sharing>.
+
 ## Booking oncall shifts
 Oncall shifts are always booked for a period of 7 consecutive days and thus include one weekend. In order to avoid having to handover and coordinate with the next oncall on a Sunday, shifts are always booked from Tuesday (starting at 12.01am) until Monday (ending at 11.59pm). Shifts can be booked via SAMS: <https://alice-glance.cern.ch/alice/sams/shift/booking?start_date=2021-07-01&end_date=2021-07-31&subsystem%5B%5D=41&view=shift>. In order to book a shift you need to have the permission in SAMS. Permission can be given to you by the SRCs, please contact David or Ole.
 
