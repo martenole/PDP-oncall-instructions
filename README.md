@@ -26,6 +26,7 @@ As oncall you will need to be reachable via a CERN phone number. This can be a C
 ## Checklist before starting your shift
 - [x] subscribe to the egroup alice-p2info and alice-pdp-oncalls (search for the name at https://e-groups.cern.ch/)
 - [x] check that your phone number in SAMS is correct (https://alice-glance.cern.ch/alice/sams/member/profile)
+- [x] check with the previous oncall about the current PDP status. In principle you can follow this up in the RC daily meeting minutes, but some points might not be immediately clear to you. In that case a short call e.g. after the PDP meeting on Monday might be helpful.
 
 
 ## Meeting duties
